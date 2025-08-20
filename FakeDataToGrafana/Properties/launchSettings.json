@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FakeDataToGrafana": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
