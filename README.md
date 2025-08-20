@@ -2,6 +2,8 @@
 
 Este projeto gera dados fake de IoT, Logs e Métricas de Sistema em tempo real e os expõe para o Prometheus, que pode ser visualizado no Grafana.
 
+![](./docs/images/dashboard.gif)
+
 ## 📋 Pré-requisitos
 
 - .NET 8 SDK
